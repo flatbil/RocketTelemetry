@@ -1,5 +1,8 @@
 package Controller;
-//This is the rocket telemetry main class.
+/*
+ * @author Will Almond
+ * @version Summer 2016
+ */
 public class Main {
 
 }
